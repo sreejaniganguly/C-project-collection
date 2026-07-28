@@ -5,6 +5,7 @@ A collection of small C programming projects made while learning and practicing 
 ## Projects Included
 
 - Differnt variations in Clock
+- Number guessing game
 
 ## Concepts Used
 
