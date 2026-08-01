@@ -1,4 +1,4 @@
-# C Projects Collection
+# Projects Collection in C
 
 A collection of beginner-friendly C programming projects built while learning core programming concepts. This repository showcases my journey in C, from basic logic building to practical console-based applications.
 
