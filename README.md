@@ -1,22 +1,20 @@
-# Mini C Projects
+ Number Guessing Game 
 
-A collection of small C programming projects made while learning and practicing C language.
+A simple console-based Number Guessing Game built using the C programming language. The program generates a random number, and the player has to guess it with the help of hints.
 
-## Projects Included
+ Features
 
-- Differnt variations in Clock
-- Number guessing game
+- Generates a random number.
+- Takes user guesses as input.
+- Gives hints:
+  - Too High
+  - Too Low
+- Counts the number of attempts.
+- Displays a congratulatory message when the correct number is guessed.
 
-## Concepts Used
+ Technologies Used
 
-- Loops
-- Functions
-- Arrays
-- File Handling
-- Conditionals
-- Structures
+- C Programming
+- Standard C Libraries ("stdio.h", "stdlib.h", "time.h")
 
-## Purpose
-
-This repository is part of my coding journey to improve problem-solving and programming skills in C.
 
