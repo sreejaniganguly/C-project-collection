@@ -1,21 +1,30 @@
-# Number Guessing Game in C
+# C Projects Collection
 
-A simple terminal-based number guessing game built using the C programming language while learning loops, conditional statements, user input, and random number generation.
+A collection of beginner-friendly C programming projects built while learning core programming concepts. This repository showcases my journey in C, from basic logic building to practical console-based applications.
 
-## Features
+## Projects Included
 
-- Random number generation
-- User-friendly guessing interface
-- Hints for high and low guesses
-- Counts the number of attempts
-- Congratulates the player on winning
+-  Clock variations (digital, alarm)
+-  Number Guessing Game
 
 ## Concepts Used
 
-- Loops
-- Conditional Statements
+- Variables and Data Types
+- Input and Output
+- Conditional Statements (`if`, `switch`)
+- Loops (`for`, `while`, `do-while`)
 - Functions
-- `rand()` and `srand()`
-- User Input/Output
+- Arrays
+- Random Number Generation
+- Time Handling (`time.h`)
+- Standard C Libraries
+- Problem Solving and Logic Building
+
+## Goals
+
+- Strengthen C programming fundamentals
+- Improve problem-solving skills
+- Build a collection of practical console applications
+- Prepare for Data Structures & Algorithms
 
 
