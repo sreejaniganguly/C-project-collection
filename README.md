@@ -1,20 +1,21 @@
- Number Guessing Game 
+# Number Guessing Game in C
 
-A simple console-based Number Guessing Game built using the C programming language. The program generates a random number, and the player has to guess it with the help of hints.
+A simple terminal-based number guessing game built using the C programming language while learning loops, conditional statements, user input, and random number generation.
 
- Features
+## Features
 
-- Generates a random number.
-- Takes user guesses as input.
-- Gives hints:
-  - Too High
-  - Too Low
-- Counts the number of attempts.
-- Displays a congratulatory message when the correct number is guessed.
+- Random number generation
+- User-friendly guessing interface
+- Hints for high and low guesses
+- Counts the number of attempts
+- Congratulates the player on winning
 
- Technologies Used
+## Concepts Used
 
-- C Programming
-- Standard C Libraries ("stdio.h", "stdlib.h", "time.h")
+- Loops
+- Conditional Statements
+- Functions
+- `rand()` and `srand()`
+- User Input/Output
 
 
