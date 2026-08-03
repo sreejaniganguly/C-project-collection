@@ -10,16 +10,7 @@ A simple console-based Number Guessing Game built using the C programming langua
 -  Tracks the number of attempts
 -  Displays a winning message when the correct number is guessed
 -  Simple and interactive terminal interface
-
-
-##  Concepts Used
-
-- Variables and Data Types
-- Input and Output (`scanf`, `printf`)
-- Conditional Statements (`if`, `else`)
-- Loops (`while`)
-- Random Number Generation (`rand()`, `srand()`)
-- Standard C Libraries (`stdio.h`, `stdlib.h`, `time.h`)
+  
 
 
 
